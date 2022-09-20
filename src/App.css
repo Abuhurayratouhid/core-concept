@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  color: red;
+  background-color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+.person{
+  background-color: #61dafb;
+  color: wheat;
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid black;
+  border-radius: 30px;
+}
+.nayok{
+  background-color: blueviolet;
+  color: wheat;
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid black;
+  border-radius: 30px;
+}
